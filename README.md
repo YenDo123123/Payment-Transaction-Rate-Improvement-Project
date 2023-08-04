@@ -72,3 +72,6 @@ With the support of my mentor (Mr. Hieu Nguyen), below is the result of the Prob
 
 ## **Analyse and Recommendation**
 
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/a2a0b140-0176-43d3-ac1b-e0b6b99f38c2">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/f622870a-e501-48e6-81da-f6a7469e61ed">
+
