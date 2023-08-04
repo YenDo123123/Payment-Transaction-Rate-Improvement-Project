@@ -32,47 +32,43 @@ The business request for this data analyst project was to analyze why the succes
 With the support of my mentor (Mr. Hieu Nguyen), below is the result of the Problem-solving session. 
 
 ### **Define Problem with the 5W1H method**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/59d6f737-eda0-421f-b3f6-229355bad63a">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/cfb5c351-1e0b-47b8-ad08-7a76607a89bd">
 
 ### **Define Problem with the Logic Tree method**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/64b8feb5-27d4-49c3-b5f8-ad107c25f1ac">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/f1e40ea2-673d-4cb1-9479-68258ac3c3ec">
 
 ## **Analyze the factors of Internal issues **
 ### **Analyze the difference in success rate and volume ratio between scenario IDs.** 
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/9ade2c40-7ef4-45fb-8ddd-e2362b9ee3f3">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/21f13e52-2e5e-47d3-9534-f6de984fc279">
 
 ### **Analyze the difference in success rate and volume ratio between payment platforms.** 
 **Analyze the difference in success rate and volume ratio between payment platforms**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/e8d3fab1-4bdc-4319-b1de-7333002af1a3">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/e3b2667d-a6d8-4e96-9784-dee54223135c">
 
 **Analyze the difference in success rate and volume ratio between payment platforms over time (by month)**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/e72fd34f-d0e2-42ef-8e21-e76fe7cd98e0">
+<img width="509" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/66c98ad9-ab6a-470f-a44b-f02ce84bb2d0">
 
 ### **Analyze the difference in success rate and volume ratio between payment channels.** 
 **Analyze the difference in success rate and volume ratio between payment channels**
-
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/f337c78e-68d1-4d7f-ae04-303a811255f5">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/61bb6f5c-3313-428a-9c5b-8ecea15da3f2">
 
 **Analyze the difference in success rate and volume ratio between payment channels over time (by month)**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/c125b2fb-5a9b-4bef-acb6-358d1170bf24">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/06852d6f-23e7-43e0-aeb2-4f57799d48e7">
 
 ### **Analyze the main errors of failed transactions.** 
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/fe78bcd6-fd7c-4b2e-8f68-b603aa2549c6">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/9c1e4b83-9b43-4d7f-bac6-1a88af667e60">
 
 ## **Analyze the factors of External issues **
 ### **Analyze the percentage of the total number of failed transactions were the transactions that occurred before the customer’s first successful Top-up time.**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/e1b13984-c0d6-433e-ba9c-9a843ad0c45d">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/cf932098-7dc6-4639-ada6-5704f001f888">
 
 ### **Analyze the percentage of error reasons coming from customers in the total error messages.**
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/2e1297e9-0777-4f32-a67f-0b321b411d12">
 
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/f384e43f-6bb3-47fe-8239-76b91c45efb0">
 
 ### **Analyze the impact of promotion on success rate result.**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/1224b599-6495-4ce2-a9dc-3f5b71ddcfcb">
+<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/6926f34d-ff11-49aa-8c75-fd8307dea38c">
 
 
 ## **Analyse and Recommendation**
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/271e4840-cc0f-4202-8220-8b3eb3e45d1c">
-
-<img width="589" alt="image" src="https://github.com/YenDo123123/Success-Rate-Analysis/assets/140786495/958e1e65-e5d8-439e-9e44-84e1a7542d54">
 
